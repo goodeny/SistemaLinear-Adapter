@@ -1,0 +1,14 @@
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\bin\Debug\net8.0\WebServerCS.exe
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\bin\Debug\net8.0\WebServerCS.deps.json
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\bin\Debug\net8.0\WebServerCS.runtimeconfig.json
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\bin\Debug\net8.0\WebServerCS.dll
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\bin\Debug\net8.0\WebServerCS.pdb
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\WebServerCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\WebServerCS.AssemblyInfoInputs.cache
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\WebServerCS.AssemblyInfo.cs
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\WebServerCS.csproj.CoreCompileInputs.cache
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\WebServerCS.dll
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\refint\WebServerCS.dll
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\WebServerCS.pdb
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\WebServerCS.genruntimeconfig.cache
+C:\Users\Goodeny\source\repos\WebServerCS\WebServerCS\obj\Debug\net8.0\ref\WebServerCS.dll
