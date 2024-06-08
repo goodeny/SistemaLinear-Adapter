@@ -4,10 +4,12 @@
 ### Gauss: http://127.0.0.1:5051/sela?algorithm=gauss&A=2,8,10;3,4,8;9,8,7&b=7,5,4
 ### LU: http://127.0.0.1:5051/sela?algorithm=lu&A=2,8,10;3,4,8;9,8,7&b=7,5,4
 
+#### Http input
 ```
-http:
 http://127.0.0.1:5051/sela?algorithm=lu&A=2,8,10;3,4,8;9,8,7&b=7,5,4
-Test: 
+```
+#### Output
+```
 Resultado do Sistema Linear (lu)
 -0,16666666666666652, 0,15277777777777768, 0,6111111111111112
 ```
